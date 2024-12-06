@@ -33,7 +33,7 @@ These are simulated with a series of sections that are divided based on barriers
 
 	  #pragma omp section
 	  {
-		  Wario( );	// your own
+		  Wario( );
 	  }
   }
 ```
