@@ -295,7 +295,7 @@ int main (int argc, char *argv[]){
 
 	  #pragma omp section
 	  {
-		  Wario( );	// your own
+		  Wario( );	
 	  }
   }       // implied barrier -- all functions must return in order
 	// to allow any of them to get past here
