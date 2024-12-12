@@ -1,7 +1,7 @@
 # Functional-Decomposition
 Uses multithreading and parallelism to simulate wild life in a fictional park.
 
-Assisted with the help of Mike Bailey.
+Assisted with the help of Mike Bailey from OSU and ran on Rabbit server at Oregon State University.
 
 Here the simulation simulates the following in a park:
 **Temperature** - Under the watcher.
